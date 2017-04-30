@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlipX</string>
+    <string name="action_settings">Settings</string>
+    <string name="share_blog">share</string>
+</resources>
